@@ -61,7 +61,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 5;
             this.pictureBox2.TabStop = false;
-            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
+            
             // 
             // pictureBox1
             // 
@@ -91,7 +91,7 @@
             this.progressBar1.Size = new System.Drawing.Size(852, 23);
             this.progressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             this.progressBar1.TabIndex = 10;
-            this.progressBar1.Click += new System.EventHandler(this.progressBar1_Click);
+            
             // 
             // label6
             // 
@@ -114,11 +114,11 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Loading, Please wait...";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            
             // 
             // timer1
             // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+           
             // 
             // LoadingForm
             // 
@@ -143,6 +143,10 @@
             this.ResumeLayout(false);
 
         }
+
+ 
+
+
 
         #endregion
 

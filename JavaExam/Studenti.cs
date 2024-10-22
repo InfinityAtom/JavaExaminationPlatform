@@ -13,6 +13,10 @@ public partial class Studenti
 
     public string Password { get; set; } = null!;
 
+    public string PhoneNumber { get; set; } = null!;
+
+    public string PhoneNumberVerified { get; set; } = null!;
+
     public string FirstName { get; set; } = null!;
 
     public string LastName { get; set; } = null!;
@@ -25,7 +29,7 @@ public partial class Studenti
 
     public string Groupa { get; set; } = null!;
 
-    public int Cheater { get; set; }
+    public int Passkey { get; set; }
 
     public int Blind { get; set; }
 
@@ -33,11 +37,7 @@ public partial class Studenti
 
     public virtual ICollection<LoginCodesBlind> LoginCodesBlinds { get; set; } = new List<LoginCodesBlind>();
 
-    public virtual Proctor Proctor { get; set; } = null!;
-
     public virtual ICollection<QuestionsBlind> QuestionsBlinds { get; set; } = new List<QuestionsBlind>();
-
-    public virtual Specialization Specialization { get; set; } = null!;
 
     public virtual ICollection<Task> Tasks { get; set; } = new List<Task>();
 

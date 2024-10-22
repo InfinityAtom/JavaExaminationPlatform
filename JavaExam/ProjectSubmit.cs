@@ -14,12 +14,16 @@ using System.Net.Mail;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.Diagnostics;
+using System.Text;  // Add this namespace for encoding
 
 namespace JavaExam
 {
 	public partial class ProjectSubmit : Form
 	{
-		private List<string> ReadLinesFromFile(string filePath)
+        private string encodedClasses;
+        private string encodedCsv;
+
+        private List<string> ReadLinesFromFile(string filePath)
 		{
 			List<string> lines = new List<string>();
 
@@ -35,10 +39,20 @@ namespace JavaExam
 		}
 		private void UpdateLabels()
 		{
-				label9.Text =  GlobalUser.LoggedInUser.LastName;
+            if(GlobalSim.IsSimulation == false)
+            {
+                label9.Text =  GlobalUser.LoggedInUser.LastName;
 				label10.Text = GlobalUser.LoggedInUser.FirstName;
                 label11.Text = GlobalUser.LoggedInUser.Faculty;
                 label13.Text = GlobalUser.LoggedInUser.Groupa; 	
+            }
+				else
+            {
+                label9.Text = "Default";
+                label10.Text = "User";
+                label11.Text = "0";
+                label13.Text = "0";
+            }
 		}
 		private string path = @"C:\TaskWorker\TaskEvaluator\result.txt";
         private string grade = "";
@@ -72,8 +86,9 @@ namespace JavaExam
             Task2Feed();
             Task3Feed();
             Task4Feed();
-            
-			string pattern = @"Grade:\s*(.*)";
+            EncodeData();  // Encode data after initializing
+
+            string pattern = @"Grade:\s*(.*)";
             Match match = Regex.Match(File.ReadAllText(path), pattern);
 
             if (match.Success)
@@ -190,34 +205,67 @@ namespace JavaExam
 				MessageBox.Show("Error unblocking websites: " + ex.Message);
 			}
 		}
+        private void EncodeData()
+        {
+            // Read the content of input.txt file
+            string inputFilePath = @"C:\TaskWorker\TaskEvaluator\input.txt";
+            string fileContent = File.ReadAllText(inputFilePath);
+
+            // Extract the CSV data
+            string csvData = ExtractCsvData(fileContent);
+
+            // Extract the Java classes
+            string javaClasses = ExtractJavaClasses(fileContent);
+
+            // Encode the CSV data and Java classes into Base64
+            encodedCsv = Convert.ToBase64String(Encoding.UTF8.GetBytes(csvData));
+            encodedClasses = Convert.ToBase64String(Encoding.UTF8.GetBytes(javaClasses));
+        }
+
+        private string ExtractCsvData(string content)
+        {
+            var csvPattern = @"<csv>(.*?)</csv>";
+            var match = Regex.Match(content, csvPattern, RegexOptions.Singleline);
+            return match.Success ? match.Groups[1].Value.Trim() : string.Empty;
+        }
+
+        private string ExtractJavaClasses(string content)
+        {
+            var classPattern = @"Class\s+\w+\.java:.*";
+            var match = Regex.Match(content, classPattern, RegexOptions.Singleline);
+            return match.Success ? match.Value.Trim() : string.Empty;
+        }
+
         private void UpdateTasksInDatabase()
         {
-            int studentId = GlobalUser.LoggedInUser.StudnetId; // Note the typo in `StudnetId`. It should be `StudentId`.
+            int studentId = GlobalUser.LoggedInUser.StudnetId; // Correct typo from 'StudnetId' to 'StudentId'.
             GlobalBooking.FetchBookingByStudentId(studentId);
-			int proctorId = GlobalProctor.LoggedInProctor.ProctorId;
+            int proctorId = GlobalProctor.LoggedInProctor.ProctorId;
             int bookingId = GlobalBooking.CurrentBooking.BookingId;
 
             using (var context = new JavaExamContext())
             {
-				var newTask = new Task
-				{
-					BookingId = bookingId,
-					ExamId = 1,
-					ProctorId = proctorId,
-					StudentId = studentId, // Assuming GlobalUser.LoggedInUser has the logged in student's details
-					Task1Content = task1C,
-					Task1State = task1S,
-					Task1Explanation = task1F,
-					Task2Content = task2C,
-					Task2State = task2S,
-					Task2Explanation = task2F,
-					Task3Content = task3C,
-					Task3State = task3S,
-					Task3Explanation = task3F,
-					Task4Content = task4C,
-					Task4State = task4S,
-					Task4Explanation = task4F,
-					FinalGrade = Convert.ToInt32(finalGrade)
+                var newTask = new Task
+                {
+                    BookingId = bookingId,
+                    ExamId = 1,
+                    ProctorId = proctorId,
+                    StudentId = studentId,
+                    Task1Content = task1C,
+                    Task1State = task1S,
+                    Task1Explanation = task1F,
+                    Task2Content = task2C,
+                    Task2State = task2S,
+                    Task2Explanation = task2F,
+                    Task3Content = task3C,
+                    Task3State = task3S,
+                    Task3Explanation = task3F,
+                    Task4Content = task4C,
+                    Task4State = task4S,
+                    Task4Explanation = task4F,
+                    FinalGrade = Convert.ToInt32(finalGrade),
+                    EncodedClasses = encodedClasses,
+                    EncodedCsv = encodedCsv
                 };
 
                 context.Tasks.Add(newTask);
@@ -277,54 +325,57 @@ namespace JavaExam
 				Console.WriteLine("Error: " + ex.Message);
 			}
 
-			List<string> attachmentFilePaths = new List<string>
-			{
-			$@"{Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"\\{label9.Text}_{label10.Text}.zip")}"
-			};
 
-			string task1="";
-			string task2="";
-			string task3 = "";
-			string task4 = "";
-			string path = @"C:\TaskWorker\TaskCreator\tasks.txt";
-			
+            if (GlobalSim.IsSimulation == false)
+            {
+                List<string> attachmentFilePaths = new List<string>
+            {
+            $@"{Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"\\{label9.Text}_{label10.Text}.zip")}"
+            };
 
-			string pattern = @"Task 1:\s*(.*)";
-			Match match = Regex.Match(File.ReadAllText(path), pattern);
+                string task1 = "";
+                string task2 = "";
+                string task3 = "";
+                string task4 = "";
+                string path = @"C:\TaskWorker\TaskCreator\tasks.txt";
 
-			if (match.Success)
-			{
-				task1 = match.Groups[1].Value.Trim();
-			}
 
-			string pattern2 = @"Task 2:\s*(.*)";
-			Match match2 = Regex.Match(File.ReadAllText(path), pattern2);
+                string pattern = @"Task 1:\s*(.*)";
+                Match match = Regex.Match(File.ReadAllText(path), pattern);
 
-			if (match2.Success)
-			{
-				task2 = match2.Groups[1].Value.Trim();
-			}
+                if (match.Success)
+                {
+                    task1 = match.Groups[1].Value.Trim();
+                }
 
-			string pattern3 = @"Task 3:\s*(.*)";
-			Match match3 = Regex.Match(File.ReadAllText(path), pattern3);
+                string pattern2 = @"Task 2:\s*(.*)";
+                Match match2 = Regex.Match(File.ReadAllText(path), pattern2);
 
-			if (match3.Success)
-			{
-				task3 = match3.Groups[1].Value.Trim();
-			}
+                if (match2.Success)
+                {
+                    task2 = match2.Groups[1].Value.Trim();
+                }
 
-			string pattern4 = @"Task 4:\s*(.*)";
-			Match match4 = Regex.Match(File.ReadAllText(path), pattern4);
+                string pattern3 = @"Task 3:\s*(.*)";
+                Match match3 = Regex.Match(File.ReadAllText(path), pattern3);
 
-			if (match4.Success)
-			{
-				task4 = match4.Groups[1].Value.Trim();
-			}
+                if (match3.Success)
+                {
+                    task3 = match3.Groups[1].Value.Trim();
+                }
 
-        DateTime currentDate = DateTime.Now;
-        string formattedDate = currentDate.ToString("dd.MM.yyyy");
+                string pattern4 = @"Task 4:\s*(.*)";
+                Match match4 = Regex.Match(File.ReadAllText(path), pattern4);
 
-        string body = $@"
+                if (match4.Success)
+                {
+                    task4 = match4.Groups[1].Value.Trim();
+                }
+
+                DateTime currentDate = DateTime.Now;
+                string formattedDate = currentDate.ToString("dd.MM.yyyy");
+
+                string body = $@"
 EXAMEN PROGRAMARE IN JAVA DIN DATA: {formattedDate}
 
 Nume Student: {label9.Text}
@@ -364,18 +415,20 @@ Task 4 Explanation: {task4F}
 
 Cele bune,";
 
-string signature = @"
+                string signature = @"
 Proiectul JavaExam
 Infinity Atom
 Velicea Fabian Pavel
 Student UniTBv- IESC- TSTC- An.III- Gr. 4LF612";
 
 
-		SendEmailWithAttachments("java.exam@infinity-atom.ro", GlobalProctor.LoggedInProctor.Email.ToString(), $"Examenul de Java al lui {label9.Text} {label10.Text}", body, signature, attachmentFilePaths);
-			UnblockWebsites();
-			RestartExplorer();
-			File.Delete(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\users.txt");
-            UpdateTasksInDatabase();
+                SendEmailWithAttachments("java.exam@infinity-atom.ro", GlobalProctor.LoggedInProctor.Email.ToString(), $"Examenul de Java al lui {label9.Text} {label10.Text}", body, signature, attachmentFilePaths);
+                UnblockWebsites();
+                
+                File.Delete(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\users.txt");
+                UpdateTasksInDatabase();
+            }
+            RestartExplorer();
 			File.Delete(@"C:\TaskWorker\TaskCreator\csvFile.csv");
              Environment.Exit(0);
 		}

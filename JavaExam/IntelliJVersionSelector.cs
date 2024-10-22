@@ -53,9 +53,19 @@ namespace JavaExam
 			if (textBox1.Text!="" && textBox1.Text.EndsWith("idea64.exe")==true)
 			{		
 					GlobalPath.IJPath = textBox1.Text;
+				if(GlobalSim.IsSimulation==true)
+				{
+					Tutorial tutorial	= new Tutorial();
+					tutorial.Show();
+					Hide();
+				}
+				else
+				{
 					ProctorLogin pl = new ProctorLogin();
 					pl.Show();
 					Hide();
+				}
+					
 			}
 			else
 			{

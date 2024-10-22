@@ -59,6 +59,7 @@ namespace JavaExam
             this.label1.TabIndex = 2;
             this.label1.Text = "Please wait, the exam is loading...";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // Splash
             // 
@@ -73,6 +74,7 @@ namespace JavaExam
             this.Name = "Splash";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Splash";
+            this.TopMost = true;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Splash_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

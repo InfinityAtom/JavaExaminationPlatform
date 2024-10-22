@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JavaExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d76f42f467ac9ffd038bf46f49b83822aa95853b")]
 [assembly: System.Reflection.AssemblyProductAttribute("JavaExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JavaExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

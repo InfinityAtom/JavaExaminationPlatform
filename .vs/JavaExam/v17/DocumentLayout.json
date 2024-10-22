@@ -1,0 +1,1154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\javaexamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\javaexamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\passkeyloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\passkeyloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\passkeyloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\passkeyloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\docker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\docker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\1af33e14eb230cd3d93b377510a2c2d36f4e92a32b691649e6bb35ccc60a9aa3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\InteropServices\\Marshal.Windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\projectsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\projectsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\tempsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\tempsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\dockertraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\dockertraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\dockertraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\dockertraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\projectsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\projectsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\selectsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\selectsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\selectsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\selectsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\splashtraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splashtraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\splashtraining.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splashtraining.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\splash3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splash3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\splash2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splash2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\splash4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splash4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\splashblind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splashblind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\timeexpired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\timeexpired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\proctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\proctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\docker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\docker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\globalpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\globalpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\ty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\ty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\tutorialblind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\tutorialblind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\3c0ba602a3681d430cc9b07f0328113916bb6baf5e353c42096c33664863fd16\\src\\libraries\\System.Data.Common\\src\\System\\Data\\DataTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\intellijversionselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\intellijversionselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\intellijversionselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\intellijversionselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\splashtraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splashtraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\globalfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\globalfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\globaluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\globaluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\globalsim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\globalsim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\agreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\agreement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\accesibilityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\accesibilityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\givefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\givefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\firstcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\firstcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\globalcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\globalcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\globalbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\globalbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\globalreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\globalreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\chatwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\chatwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\proctorreauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\proctorreauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\proctorreauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\proctorreauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\reloadexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\reloadexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\reloadexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\reloadexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\bookingerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\bookingerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\4150ccd20524dcc88e8963da7c1020563720d7fda3cd9a0488d955028625fc35\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\FileSystem.Windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\passkeyloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\passkeyloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\loadingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\loadingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\4a81950d1c891efd1017d552f5b92a09d20886b54225614a6b027eda7e9e2a24\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Delegate.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\proctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\proctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\examblindform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\examblindform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\scanazteccode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\scanazteccode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\scanazteccode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\scanazteccode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|C:\\Users\\Fabian\\source\\repos\\JavaExam\\javaexam\\examblindform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\examblindform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|c:\\users\\fabian\\source\\repos\\javaexam\\javaexam\\splashblind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30BD8D7-F01A-4422-911A-F61D5AFEDC57}|JavaExam\\JavaExam.csproj|solutionrelative:javaexam\\splashblind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 447,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Docker.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Docker.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Docker.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Docker.cs",
+              "RelativeToolTip": "JavaExam\\Docker.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAuwHgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:17:53.318Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LogIn.cs",
+              "RelativeDocumentMoniker": "JavaExam\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LogIn.cs",
+              "RelativeToolTip": "JavaExam\\LogIn.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAUwCsAAAAZAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:04:20.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "JavaExam\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LoadingForm.cs",
+              "RelativeToolTip": "JavaExam\\LoadingForm.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:53:31.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Program.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Program.cs",
+              "RelativeToolTip": "JavaExam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:49:13.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasskeyLoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\PasskeyLoginForm.cs",
+              "RelativeDocumentMoniker": "JavaExam\\PasskeyLoginForm.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\PasskeyLoginForm.cs",
+              "RelativeToolTip": "JavaExam\\PasskeyLoginForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:28:59.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LogIn.cs",
+              "RelativeDocumentMoniker": "JavaExam\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LogIn.cs [Design]",
+              "RelativeToolTip": "JavaExam\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:15:50.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasskeyLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\PasskeyLoginForm.cs",
+              "RelativeDocumentMoniker": "JavaExam\\PasskeyLoginForm.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\PasskeyLoginForm.cs [Design]",
+              "RelativeToolTip": "JavaExam\\PasskeyLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-12T11:26:27.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JavaExamContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\JavaExamContext.cs",
+              "RelativeDocumentMoniker": "JavaExam\\JavaExamContext.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\JavaExamContext.cs",
+              "RelativeToolTip": "JavaExam\\JavaExamContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA2wCsAAAAZAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:47:14.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "JavaExam\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LoadingForm.cs [Design]",
+              "RelativeToolTip": "JavaExam\\LoadingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-30T21:05:22.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ChatWindow.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ChatWindow.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ChatWindow.cs",
+              "RelativeToolTip": "JavaExam\\ChatWindow.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAkwIEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:17:27.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DockerTraining.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\DockerTraining.cs",
+              "RelativeDocumentMoniker": "JavaExam\\DockerTraining.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\DockerTraining.cs",
+              "RelativeToolTip": "JavaExam\\DockerTraining.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAADwv44AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:02:52.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ChatWindow.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ChatWindow.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ChatWindow.cs [Design]",
+              "RelativeToolTip": "JavaExam\\ChatWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-09T13:04:59.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TempSplash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\TempSplash.cs",
+              "RelativeDocumentMoniker": "JavaExam\\TempSplash.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\TempSplash.cs [Design]",
+              "RelativeToolTip": "JavaExam\\TempSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T13:01:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectSubmit.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProjectSubmit.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ProjectSubmit.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProjectSubmit.cs",
+              "RelativeToolTip": "JavaExam\\ProjectSubmit.cs",
+              "ViewState": "AQIAAIkBAAAAAAAAAAAjwK4BAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:04:47.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Marshal.Windows.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\1af33e14eb230cd3d93b377510a2c2d36f4e92a32b691649e6bb35ccc60a9aa3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\InteropServices\\Marshal.Windows.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\1af33e14eb230cd3d93b377510a2c2d36f4e92a32b691649e6bb35ccc60a9aa3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\InteropServices\\Marshal.Windows.cs",
+              "ToolTip": "C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\1af33e14eb230cd3d93b377510a2c2d36f4e92a32b691649e6bb35ccc60a9aa3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\InteropServices\\Marshal.Windows.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\1af33e14eb230cd3d93b377510a2c2d36f4e92a32b691649e6bb35ccc60a9aa3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\InteropServices\\Marshal.Windows.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:57:00.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectSubmit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProjectSubmit.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ProjectSubmit.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProjectSubmit.cs [Design]",
+              "RelativeToolTip": "JavaExam\\ProjectSubmit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T14:04:45.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DockerTraining.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\DockerTraining.cs",
+              "RelativeDocumentMoniker": "JavaExam\\DockerTraining.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\DockerTraining.cs [Design]",
+              "RelativeToolTip": "JavaExam\\DockerTraining.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-04T14:40:42.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tutorial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Tutorial.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Tutorial.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Tutorial.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Tutorial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T11:55:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SelectSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SelectSimulation.cs",
+              "RelativeDocumentMoniker": "JavaExam\\SelectSimulation.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SelectSimulation.cs",
+              "RelativeToolTip": "JavaExam\\SelectSimulation.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAIAwwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:44:33.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SelectSimulation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SelectSimulation.cs",
+              "RelativeDocumentMoniker": "JavaExam\\SelectSimulation.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SelectSimulation.cs [Design]",
+              "RelativeToolTip": "JavaExam\\SelectSimulation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T11:40:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SplashTraining.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashTraining.cs",
+              "RelativeDocumentMoniker": "JavaExam\\SplashTraining.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashTraining.cs [Design]",
+              "RelativeToolTip": "JavaExam\\SplashTraining.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-09T14:35:55.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SplashTraining.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashTraining.Designer.cs",
+              "RelativeDocumentMoniker": "JavaExam\\SplashTraining.Designer.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashTraining.Designer.cs",
+              "RelativeToolTip": "JavaExam\\SplashTraining.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:01:53.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Splash.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Splash.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Splash.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T14:22:13.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Splash4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Splash4.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Splash4.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Splash4.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Splash4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T14:22:40.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Splash2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Splash2.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Splash2.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Splash2.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Splash2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T14:22:35.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Splash3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Splash3.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Splash3.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Splash3.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Splash3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T14:22:38.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SplashBlind.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashBlind.cs",
+              "RelativeDocumentMoniker": "JavaExam\\SplashBlind.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashBlind.cs [Design]",
+              "RelativeToolTip": "JavaExam\\SplashBlind.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-25T09:49:30.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "timeExpired.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\timeExpired.cs",
+              "RelativeDocumentMoniker": "JavaExam\\timeExpired.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\timeExpired.cs [Design]",
+              "RelativeToolTip": "JavaExam\\timeExpired.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:06:16.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProctorLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProctorLogin.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ProctorLogin.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProctorLogin.cs [Design]",
+              "RelativeToolTip": "JavaExam\\ProctorLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T13:01:34.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Checking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Checking.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Checking.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Checking.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Checking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:05:27.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Docker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Docker.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Docker.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Docker.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Docker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-04T14:17:45.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GlobalPath.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalPath.cs",
+              "RelativeDocumentMoniker": "JavaExam\\GlobalPath.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalPath.cs",
+              "RelativeToolTip": "JavaExam\\GlobalPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:42:19.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Checking.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Checking.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Checking.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Checking.cs",
+              "RelativeToolTip": "JavaExam\\Checking.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAIAwwOcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:32:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ty.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ty.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ty.cs [Design]",
+              "RelativeToolTip": "JavaExam\\ty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:23:12.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TutorialBlind.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\TutorialBlind.cs",
+              "RelativeDocumentMoniker": "JavaExam\\TutorialBlind.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\TutorialBlind.cs [Design]",
+              "RelativeToolTip": "JavaExam\\TutorialBlind.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:23:11.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DataTable.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\3c0ba602a3681d430cc9b07f0328113916bb6baf5e353c42096c33664863fd16\\src\\libraries\\System.Data.Common\\src\\System\\Data\\DataTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\3c0ba602a3681d430cc9b07f0328113916bb6baf5e353c42096c33664863fd16\\src\\libraries\\System.Data.Common\\src\\System\\Data\\DataTable.cs",
+              "ToolTip": "C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\3c0ba602a3681d430cc9b07f0328113916bb6baf5e353c42096c33664863fd16\\src\\libraries\\System.Data.Common\\src\\System\\Data\\DataTable.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\3c0ba602a3681d430cc9b07f0328113916bb6baf5e353c42096c33664863fd16\\src\\libraries\\System.Data.Common\\src\\System\\Data\\DataTable.cs",
+              "ViewState": "AQIAACcNAAAAAAAAAAAgwDYNAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:25:52.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IntelliJVersionSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\IntelliJVersionSelector.cs",
+              "RelativeDocumentMoniker": "JavaExam\\IntelliJVersionSelector.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\IntelliJVersionSelector.cs",
+              "RelativeToolTip": "JavaExam\\IntelliJVersionSelector.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:22:03.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IntelliJVersionSelector.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\IntelliJVersionSelector.cs",
+              "RelativeDocumentMoniker": "JavaExam\\IntelliJVersionSelector.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\IntelliJVersionSelector.cs [Design]",
+              "RelativeToolTip": "JavaExam\\IntelliJVersionSelector.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:21:30.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SplashTraining.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashTraining.cs",
+              "RelativeDocumentMoniker": "JavaExam\\SplashTraining.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashTraining.cs",
+              "RelativeToolTip": "JavaExam\\SplashTraining.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:42:44.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Tutorial.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Tutorial.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Tutorial.cs",
+              "RelativeToolTip": "JavaExam\\Tutorial.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:56:17.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GlobalFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalFeedback.cs",
+              "RelativeDocumentMoniker": "JavaExam\\GlobalFeedback.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalFeedback.cs",
+              "RelativeToolTip": "JavaExam\\GlobalFeedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:11:15.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GlobalUser.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalUser.cs",
+              "RelativeDocumentMoniker": "JavaExam\\GlobalUser.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalUser.cs",
+              "RelativeToolTip": "JavaExam\\GlobalUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:41:20.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GlobalSim.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalSim.cs",
+              "RelativeDocumentMoniker": "JavaExam\\GlobalSim.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalSim.cs",
+              "RelativeToolTip": "JavaExam\\GlobalSim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:41:18.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Grade.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Grade.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Grade.cs",
+              "RelativeToolTip": "JavaExam\\Grade.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAswMMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:06:24.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\CSV.cs",
+              "RelativeDocumentMoniker": "JavaExam\\CSV.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\CSV.cs [Design]",
+              "RelativeToolTip": "JavaExam\\CSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:05:58.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Agreement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Agreement.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Agreement.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Agreement.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Agreement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:05:56.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AccesibilityForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\AccesibilityForm.cs",
+              "RelativeDocumentMoniker": "JavaExam\\AccesibilityForm.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\AccesibilityForm.cs [Design]",
+              "RelativeToolTip": "JavaExam\\AccesibilityForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:05:55.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Grade.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Grade.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Grade.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Grade.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Grade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-10T12:20:48.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GiveFeedback.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GiveFeedback.cs",
+              "RelativeDocumentMoniker": "JavaExam\\GiveFeedback.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GiveFeedback.cs [Design]",
+              "RelativeToolTip": "JavaExam\\GiveFeedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:05:53.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Form1.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Form1.cs [Design]",
+              "RelativeToolTip": "JavaExam\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-10T12:05:52.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FirstCheck.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\FirstCheck.cs",
+              "RelativeDocumentMoniker": "JavaExam\\FirstCheck.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\FirstCheck.cs [Design]",
+              "RelativeToolTip": "JavaExam\\FirstCheck.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-30T13:48:02.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GlobalCompleted.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalCompleted.cs",
+              "RelativeDocumentMoniker": "JavaExam\\GlobalCompleted.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalCompleted.cs",
+              "RelativeToolTip": "JavaExam\\GlobalCompleted.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:41:30.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GlobalBooking.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalBooking.cs",
+              "RelativeDocumentMoniker": "JavaExam\\GlobalBooking.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalBooking.cs",
+              "RelativeToolTip": "JavaExam\\GlobalBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:41:27.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GlobalReview.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalReview.cs",
+              "RelativeDocumentMoniker": "JavaExam\\GlobalReview.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\GlobalReview.cs",
+              "RelativeToolTip": "JavaExam\\GlobalReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:41:24.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ChatWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ChatWindow.Designer.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ChatWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ChatWindow.Designer.cs",
+              "RelativeToolTip": "JavaExam\\ChatWindow.Designer.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAASwHMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:17:42.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "JavaExam\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Properties\\Resources.resx",
+              "RelativeToolTip": "JavaExam\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-12T21:09:50.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProctorReauth.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProctorReauth.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ProctorReauth.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProctorReauth.cs",
+              "RelativeToolTip": "JavaExam\\ProctorReauth.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwEMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:21:59.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProctorReauth.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProctorReauth.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ProctorReauth.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ProctorReauth.cs [Design]",
+              "RelativeToolTip": "JavaExam\\ProctorReauth.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T14:21:11.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ReloadExam.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ReloadExam.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ReloadExam.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ReloadExam.cs",
+              "RelativeToolTip": "JavaExam\\ReloadExam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:22:52.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FileSystem.Windows.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\4150ccd20524dcc88e8963da7c1020563720d7fda3cd9a0488d955028625fc35\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\FileSystem.Windows.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\4150ccd20524dcc88e8963da7c1020563720d7fda3cd9a0488d955028625fc35\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\FileSystem.Windows.cs",
+              "ToolTip": "C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\4150ccd20524dcc88e8963da7c1020563720d7fda3cd9a0488d955028625fc35\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\FileSystem.Windows.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\4150ccd20524dcc88e8963da7c1020563720d7fda3cd9a0488d955028625fc35\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\FileSystem.Windows.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAIAwwEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:59:11.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BookingError.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\BookingError.cs",
+              "RelativeDocumentMoniker": "JavaExam\\BookingError.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\BookingError.cs [Design]",
+              "RelativeToolTip": "JavaExam\\BookingError.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T12:22:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ReloadExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ReloadExam.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ReloadExam.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ReloadExam.cs [Design]",
+              "RelativeToolTip": "JavaExam\\ReloadExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T12:22:51.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PasskeyLoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\PasskeyLoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "JavaExam\\PasskeyLoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\PasskeyLoginForm.Designer.cs",
+              "RelativeToolTip": "JavaExam\\PasskeyLoginForm.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADgvy4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:19:09.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoadingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LoadingForm.Designer.cs",
+              "RelativeDocumentMoniker": "JavaExam\\LoadingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LoadingForm.Designer.cs",
+              "RelativeToolTip": "JavaExam\\LoadingForm.Designer.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAqwJIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:20:50.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Delegate.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\4a81950d1c891efd1017d552f5b92a09d20886b54225614a6b027eda7e9e2a24\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Delegate.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\4a81950d1c891efd1017d552f5b92a09d20886b54225614a6b027eda7e9e2a24\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Delegate.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\Fabian\\AppData\\Local\\SourceServer\\4a81950d1c891efd1017d552f5b92a09d20886b54225614a6b027eda7e9e2a24\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Delegate.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\4a81950d1c891efd1017d552f5b92a09d20886b54225614a6b027eda7e9e2a24\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Delegate.CoreCLR.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAmwFsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:40:16.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LogIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LogIn.Designer.cs",
+              "RelativeDocumentMoniker": "JavaExam\\LogIn.Designer.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\LogIn.Designer.cs",
+              "RelativeToolTip": "JavaExam\\LogIn.Designer.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAAYwBkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:34:15.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Proctor.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Proctor.cs",
+              "RelativeDocumentMoniker": "JavaExam\\Proctor.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\Proctor.cs",
+              "RelativeToolTip": "JavaExam\\Proctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:20:50.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ScanAZTECCode.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ScanAZTECCode.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ScanAZTECCode.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ScanAZTECCode.cs [Design]",
+              "RelativeToolTip": "JavaExam\\ScanAZTECCode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-30T13:48:19.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ScanAZTECCode.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ScanAZTECCode.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ScanAZTECCode.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ScanAZTECCode.cs",
+              "RelativeToolTip": "JavaExam\\ScanAZTECCode.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAASwHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:50:41.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ExamBlindForm.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ExamBlindForm.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ExamBlindForm.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ExamBlindForm.cs",
+              "RelativeToolTip": "JavaExam\\ExamBlindForm.cs",
+              "ViewState": "AQIAAJMBAAAAAAAAAAAwwJoBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:01:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ExamBlindForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ExamBlindForm.cs",
+              "RelativeDocumentMoniker": "JavaExam\\ExamBlindForm.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\ExamBlindForm.cs [Design]",
+              "RelativeToolTip": "JavaExam\\ExamBlindForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-30T23:57:28.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SplashBlind.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashBlind.cs",
+              "RelativeDocumentMoniker": "JavaExam\\SplashBlind.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\JavaExam\\JavaExam\\SplashBlind.cs",
+              "RelativeToolTip": "JavaExam\\SplashBlind.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:49:43.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

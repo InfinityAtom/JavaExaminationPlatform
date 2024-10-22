@@ -1,5 +1,7 @@
+using System.Diagnostics;
 using System.IO;
 using System.Windows.Forms;
+using Microsoft.Win32;
 using PdfiumViewer;
 
 namespace JavaExam
@@ -73,9 +75,78 @@ namespace JavaExam
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Splash splash = new Splash();
-            splash.Show();
-            Hide();
+            if(GlobalSim.IsSimulation == true)
+            {
+                if(GlobalSim.IsTrainingMode== true) 
+                {
+                    SplashTraining splashtr = new SplashTraining();
+                    splashtr.Show();
+                    Hide();
+                }
+                else
+                {
+                    try
+                    {
+                        ProcessStartInfo psi = new ProcessStartInfo
+                        {
+                            FileName = "cmd.exe",
+                            Arguments = "/C TASKKILL /F /IM explorer.exe",
+                            WindowStyle = ProcessWindowStyle.Hidden,
+                            CreateNoWindow = true,
+                            UseShellExecute = false
+                        };
+
+                        Process.Start(psi);
+                        string backgroundColor = "255 255 255"; // This would set it to white
+                        RegistryKey key = Registry.CurrentUser.OpenSubKey("Control Panel\\Colors", true);
+                        if (key != null)
+                        {
+                            key.SetValue("Background", backgroundColor);
+                            key.Close();
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Error killing explorer.exe: " + ex.Message, "Internal Error", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                    }
+
+                    SplashTraining splashtr = new SplashTraining();
+                    splashtr.Show();
+                    Hide();
+                }
+            }
+            else
+            {
+                try
+                {
+                    ProcessStartInfo psi = new ProcessStartInfo
+                    {
+                        FileName = "cmd.exe",
+                        Arguments = "/C TASKKILL /F /IM explorer.exe",
+                        WindowStyle = ProcessWindowStyle.Hidden,
+                        CreateNoWindow = true,
+                        UseShellExecute = false
+                    };
+
+                    Process.Start(psi);
+                    string backgroundColor = "255 255 255"; // This would set it to white
+                    RegistryKey key = Registry.CurrentUser.OpenSubKey("Control Panel\\Colors", true);
+                    if (key != null)
+                    {
+                        key.SetValue("Background", backgroundColor);
+                        key.Close();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error killing explorer.exe: " + ex.Message, "Internal Error", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                }
+
+                Splash splash = new Splash();
+                splash.Show();
+                Hide();
+            }
+
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

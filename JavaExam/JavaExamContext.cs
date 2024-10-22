@@ -41,7 +41,7 @@ public partial class JavaExamContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=(localdb)\\HotelMgmSystem;Database=db;Trusted_Connection=True;");
+        => optionsBuilder.UseSqlServer("Server=tcp:pep-web.database.windows.net,1433;Initial Catalog=db;Persist Security Info=False;User ID=sysadmin;Password=p@SSWORD20caractereabc1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=180;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -415,25 +415,18 @@ public partial class JavaExamContext : DbContext
             entity.Property(e => e.Groupa).HasMaxLength(50);
             entity.Property(e => e.LastName).HasMaxLength(50);
             entity.Property(e => e.Password).HasMaxLength(64);
+            entity.Property(e => e.PhoneNumber).HasMaxLength(50);
+            entity.Property(e => e.PhoneNumberVerified).HasMaxLength(50);
             entity.Property(e => e.ProctorId).HasColumnName("ProctorID");
             entity.Property(e => e.SpecializationId).HasColumnName("SpecializationID");
             entity.Property(e => e.Year).HasMaxLength(50);
-
-            entity.HasOne(d => d.Proctor).WithMany(p => p.Studentis)
-                .HasForeignKey(d => d.ProctorId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Studenti_Proctor");
-
-            entity.HasOne(d => d.Specialization).WithMany(p => p.Studentis)
-                .HasForeignKey(d => d.SpecializationId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Studenti_Specializations");
         });
 
         modelBuilder.Entity<Task>(entity =>
         {
             entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.BookingId).HasColumnName("BookingID");
+            entity.Property(e => e.EncodedCsv).HasColumnName("EncodedCSV");
             entity.Property(e => e.ExamId).HasColumnName("ExamID");
             entity.Property(e => e.ProctorId).HasColumnName("ProctorID");
             entity.Property(e => e.StudentId).HasColumnName("StudentID");

@@ -10,6 +10,9 @@
     <Compile Update="BookingError.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ChatWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Checking.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -17,6 +20,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Docker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DockerTraining.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ExamBlindForm.cs">
@@ -46,6 +52,9 @@
     <Compile Update="LogIn.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="PasskeyLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ProctorBlind.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +73,9 @@
     <Compile Update="ScanAZTECCode.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="SelectSimulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Splash3.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +83,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="SplashBlind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashTraining.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="TempSplash.cs">

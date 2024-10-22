@@ -70,6 +70,7 @@
             this.Name = "Splash3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Splash3";
+            this.TopMost = true;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Splash3_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

@@ -1,7 +1,9 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -40,7 +42,32 @@ namespace JavaExam
             }
             else
             {
-                    Splash splash = new Splash();
+                try
+                {
+                    ProcessStartInfo psi = new ProcessStartInfo
+                    {
+                        FileName = "cmd.exe",
+                        Arguments = "/C TASKKILL /F /IM explorer.exe",
+                        WindowStyle = ProcessWindowStyle.Hidden,
+                        CreateNoWindow = true,
+                        UseShellExecute = false
+                    };
+
+                    Process.Start(psi);
+                    string backgroundColor = "255 255 255"; // This would set it to white
+                    RegistryKey key = Registry.CurrentUser.OpenSubKey("Control Panel\\Colors", true);
+                    if (key != null)
+                    {
+                        key.SetValue("Background", backgroundColor);
+                        key.Close();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error killing explorer.exe: " + ex.Message, "Internal Error", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                }
+
+                Splash splash = new Splash();
                     splash.Show();
                     Hide();// 
             }
